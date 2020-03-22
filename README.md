@@ -1,2 +1,0 @@
-# IIT
-Intro to IT
